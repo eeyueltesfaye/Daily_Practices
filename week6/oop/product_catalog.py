@@ -1,4 +1,3 @@
-
 # Creating a Product Catalog
 
 # Instruction:
